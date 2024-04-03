@@ -1,0 +1,15 @@
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+
+implent dark mode, search bar acc to query, show temperature, refer to ht times
+const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=09bdfa87735248ee9de1f5fd43880e69&page= ${page}&pageSize= ${props.pageSize}`;
+
+$ git remote add origin https://github.com/shahilsingh546/NewsQuest.git
+
+const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=09bdfa87735248ee9de1f5fd43880e69&page= ${page}&pageSize= ${props.pageSize}`;
